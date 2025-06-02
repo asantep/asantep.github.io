@@ -19,7 +19,7 @@ I am working on
 2. The design and development of watershed management in collaboration with the 
 Laboratoire de Physique de Clermont at UCA.  
 
-Before joining
+Before joining...
 
 I hold a PhD in Computer Science from Université de Lorraine, France & Université de Sherbrooke, Canada.
 An MSc in Applied Mathematics and Informatics with speciality in Extreme Data Processing from ITMO University, Russia and
